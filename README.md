@@ -2,7 +2,7 @@
 👋 Hi, I’m @ManhNguyenQuoc-moc
 -->
 
-<h1 align="center">Hi there, I'm Manh Nguyen Quoc 👋</h1>
+<h1 align="center">Hi there, I'm Manh Nguyen Quoc </h1>
 
 ---
 
