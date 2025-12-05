@@ -90,5 +90,6 @@ ASP.NET system for managing historical information for TDTU.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManhNguyenQuoc-moc&show_icons=true&theme=radical" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManhNguyenQuoc-moc&show_icons=true&theme=radical&cache_seconds=7200" />
+
 </p>
