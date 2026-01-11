@@ -78,7 +78,9 @@ ASP.NET system for managing historical information for TDTU.
 🔗 GitHub: [CookingCourseAPI](https://github.com/ManhNguyenQuoc-moc/CookingCourseAPI)
 
 ---
-
+###Intelligent B2C CRM System for Cosmetics Retail
+🔗 GitHub: [crm-system-cosmetics-store-b2c](https://github.com/BuiDongTanDat/crm-system-cosmetics-store-b2c).
+---
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quoc-manh-nguyen-552b78333)
