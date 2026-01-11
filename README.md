@@ -5,17 +5,17 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Full-stack / Back-End Web Developer** with experience in building web systems using  
-**Node.js, ASP.NET Core, PHP**, and modern database technologies.  
+I'm a passionate **Full-Stack / Back-End Web Developer** with experience in building real-world web systems using  
+**Node.js, ASP.NET Core, PHP**, and modern database technologies.
 
-I enjoy working on real-world software projects, improving system architecture, and continuously learning new technologies such as **clean architecture, SOLID**, and **system design**.
+I enjoy designing scalable backend architectures, improving system quality, and continuously learning best practices such as **Clean Architecture, SOLID principles, and System Design**.
 
-- 🔭 Currently working on: ITZone internal systems and personal ASP.NET/Node.js projects  
-- 🌱 Learning: Advanced .NET architecture, Cloud deployment, Docker ecosystem  
+- 🔭 Currently working on: ITZone internal systems and personal ASP.NET / Node.js projects  
+- 🌱 Learning: Advanced .NET architecture, cloud deployment, Docker ecosystem  
 - 👯 Looking to collaborate on: Backend systems, API development, database design  
-- 💬 Ask me about: Clean architecture, .NET, Node.js, RESTful APIs  
+- 💬 Ask me about: Clean Architecture, .NET, Node.js, RESTful APIs  
 - 📫 Contact me: **nguyenquocmanh6112004@gmail.com**  
-- ⚡ Fun fact: I love building tools that automate my workflow
+- ⚡ Fun fact: I love building tools that automate my workflow  
 
 ---
 
@@ -42,25 +42,44 @@ I enjoy working on real-world software projects, improving system architecture, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### **Other skills**
+### **Other Skills**
 - OOP, SOLID Principles  
-- System Design  
 - Clean Architecture  
-- Git, GitHub workflow  
+- System Design  
+- Git & GitHub workflow  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 **E-commerce Website (Full-Stack Developer)**
-🔗 GitHub: [finalNodeJs](https://github.com/ManhNguyenQuoc-moc/finalNodeJs)  
-Backend using Node.js + Express, Google OAuth, Gemini API, Docker deployment.
+### 🧠 **Intelligent B2C CRM System for Cosmetics Retail**
+🔗 GitHub: [crm-system-cosmetics-store-b2c](https://github.com/BuiDongTanDat/crm-system-cosmetics-store-b2c)
+
+An intelligent **B2C CRM backend system** designed for cosmetics retail businesses, focusing on **customer management, marketing automation, and data-driven decision-making**.
+
+**Highlights:**
+- Core CRM modules: Leads, Customers, Products, Orders, Campaigns  
+- Event-driven **Marketing Automation Engine**
+- Integrated **AI/ML services**: Lead Scoring, Customer Segmentation, Churn Prediction, CLV estimation  
+- Asynchronous processing with **RabbitMQ**
+- **Microservices architecture** with FastAPI-based AI Service
+- Containerized deployment using **Docker**
+
+**Tech stack:**  
+Node.js, Express.js, PostgreSQL, RabbitMQ, FastAPI, Docker  
+Machine Learning: Scikit-learn, XGBoost, LightGBM
 
 ---
 
-### 🏛️ **SWT_KLN — TDTU Memorial Zone Website (ASP.NET)**  
+### 🛒 **E-commerce Website (Full-Stack Developer)**
+🔗 GitHub: [finalNodeJs](https://github.com/ManhNguyenQuoc-moc/finalNodeJs)  
+Backend system built with Node.js and Express, integrated Google OAuth, Gemini API, and Docker deployment.
+
+---
+
+### 🏛️ **SWT_KLN — TDTU Memorial Zone Website (ASP.NET)**
 🔗 GitHub: [SWT_KLN](https://github.com/Tiendat06/SWT_KLN)  
-ASP.NET system for managing historical information for TDTU.
+ASP.NET-based system for managing historical and memorial information at Ton Duc Thang University.
 
 ---
 
@@ -74,13 +93,11 @@ ASP.NET system for managing historical information for TDTU.
 
 ---
 
-### 🍳 **Cooking Course Management Website (ASP.NET Core)**  
+### 🍳 **Cooking Course Management Website (ASP.NET Core)**
 🔗 GitHub: [CookingCourseAPI](https://github.com/ManhNguyenQuoc-moc/CookingCourseAPI)
 
 ---
-### **Intelligent B2C CRM System for Cosmetics Retail**
-🔗 GitHub: [crm-system-cosmetics-store-b2c](https://github.com/BuiDongTanDat/crm-system-cosmetics-store-b2c).
----
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quoc-manh-nguyen-552b78333)
@@ -92,6 +109,5 @@ ASP.NET system for managing historical information for TDTU.
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManhNguyenQuoc-moc&show_icons=true&theme=radical&cache_seconds=7200" />
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManhNguyenQuoc-moc&show_icons=true&theme=radical&cache_seconds=7200" />
 </p>
