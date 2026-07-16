@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Manh Nguyen Quoc</h1>
-<h3 align="center">Full-Stack / Back-End Web Developer</h3>
+<h1 align="center">NGUYEN QUOC MANH</h1>
+<h3 align="center">Focus: Software Engineer | Full-stack Developer</h3>
 
 ---
 
