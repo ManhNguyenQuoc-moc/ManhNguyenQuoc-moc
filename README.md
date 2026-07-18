@@ -3,18 +3,18 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 I'm a passionate **Full-Stack / Back-End Web Developer** with experience in building production-ready web systems, high-concurrency architectures, and intelligent AI integrations. 
 
 I enjoy designing scalable backend solutions, optimizing database performance, and continuously implementing architectural best practices like **Clean Architecture, SOLID principles, and Microservices**.
 
-- 🔭 **Current Focus**: Building full-stack web applications using Next.js (App Router), .NET Core, and Node.js.
-- 🌱 **Learning**: Advanced cloud deployment, advanced system design, and Docker ecosystem orchestration.
-- 👯 **Looking to Collaborate**: High-performance backend systems, robust API design, and event-driven architectures.
-- 💬 **Ask me about**: Clean Architecture, transactional database integrity, AI integrations, and Next.js performance.
-- 📫 **Contact me**: **nguyenquocmanh6112004@gmail.com**  
-- ⚡ **Fun fact**: I love building tools that automate complex business workflows.
+- **Current Focus**: Building full-stack web applications using Next.js (App Router), .NET Core, and Node.js.
+- **Learning**: Advanced cloud deployment, advanced system design, and Docker ecosystem orchestration.
+- **Looking to Collaborate**: High-performance backend systems, robust API design, and event-driven architectures.
+- **Ask me about**: Clean Architecture, transactional database integrity, AI integrations, and Next.js performance.
+- **Contact me**: **nguyenquocmanh6112004@gmail.com**  
+- **Fun fact**: I love building tools that automate complex business workflows.
 
 ---
 
