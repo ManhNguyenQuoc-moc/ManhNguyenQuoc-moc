@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a passionate **Full-Stack / Back-End Web Developer** with experience in building production-ready web systems, high-concurrency architectures, and intelligent AI integrations. 
+I'm a passionate **Full-Stack Web Developer** with experience in building production-ready web systems, high-concurrency architectures, and intelligent AI integrations. 
 
 I enjoy designing scalable backend solutions, optimizing database performance, and continuously implementing architectural best practices like **Clean Architecture, SOLID principles, and Microservices**.
 
