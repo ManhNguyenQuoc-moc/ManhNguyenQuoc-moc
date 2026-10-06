@@ -18,7 +18,7 @@ I enjoy designing scalable backend solutions, optimizing database performance, a
 
 ---
 
-## 🚀 Tech Stack & Tools
+## Tech Stack & Tools
 
 ### **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -54,7 +54,7 @@ I enjoy designing scalable backend solutions, optimizing database performance, a
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🛒 1. **Production-Ready E-commerce Platform**
 🔗 GitHub: [ecommerce_Shop_Cosmetics](https://github.com/ManhNguyenQuoc-moc/ecommerce_Shop_Cosmetics) | 🌐 Live Demo: [ecommerce-shop-cosmetics.vercel.app](https://ecommerce-shop-cosmetics.vercel.app)
@@ -71,7 +71,7 @@ A fully-featured, performant full-stack e-commerce system built to handle high-c
 
 ---
 
-### 🧠 2. **Intelligent B2C CRM System for Cosmetics Retail**
+### 2. **Intelligent B2C CRM System for Cosmetics Retail**
 🔗 GitHub: [crm-system-cosmetics-store-b2c](https://github.com/BuiDongTanDat/crm-system-cosmetics-store-b2c)
 
 An intelligent B2C CRM backend ecosystem designed for marketing automation, intelligent pipeline coordination, and machine learning-driven decision tools.
@@ -86,7 +86,7 @@ An intelligent B2C CRM backend ecosystem designed for marketing automation, inte
 
 ---
 
-### 🍳 3. **Cooking Course Management System**
+### 3. **Cooking Course Management System**
 🔗 GitHub: [CookingCourseAPI](https://github.com/ManhNguyenQuoc-moc/CookingCourseAPI)
 
 A structural e-learning backend service managing course hierarchies, nested tracking metrics, and recipe assets.
@@ -98,17 +98,17 @@ A structural e-learning backend service managing course hierarchies, nested trac
 
 ---
 
-## 📂 Other Notable Projects
+## Other Notable Projects
 
-*   🤖 **Empathetic Relationship Chatbot (Multi-Track AI)**: Custom Seq2Seq Transformer architecture built in TensorFlow with custom Beam Search Decoders. Bootstrapped a 93K conversational dataset using the Gemini API. [GitHub Repo](https://github.com/ManhNguyenQuoc-moc/NLPfinal)
-*   🛒 **Legacy E-commerce Website**: Back-end web system utilizing Google OAuth and Gemini API endpoints. [GitHub Repo](https://github.com/ManhNguyenQuoc-moc/finalNodeJs)
-*   🏛️ **SWT_KLN — TDTU Memorial Zone**: ASP.NET web system managing university historical tracking and educational content archiving. [GitHub Repo](https://github.com/Tiendat06/SWT_KLN)
-*   🧩 **ITZone_TeamBuilding**: Activity, score keeping, and dynamic event flow organizer platform tailored for university club events. [GitHub Repo](https://github.com/Tiendat06/ITZone_TeamBuilding)
-*   💬 **ForumSugar**: Feature-rich student message board platform utilizing centralized community interaction spaces. [GitHub Repo](https://github.com/ManhNguyenQuoc-moc/ForumSugar)
+*    **Empathetic Relationship Chatbot (Multi-Track AI)**: Custom Seq2Seq Transformer architecture built in TensorFlow with custom Beam Search Decoders. Bootstrapped a 93K conversational dataset using the Gemini API. [GitHub Repo](https://github.com/ManhNguyenQuoc-moc/NLPfinal)
+*    **Legacy E-commerce Website**: Back-end web system utilizing Google OAuth and Gemini API endpoints. [GitHub Repo](https://github.com/ManhNguyenQuoc-moc/finalNodeJs)
+*    **SWT_KLN — TDTU Memorial Zone**: ASP.NET web system managing university historical tracking and educational content archiving. [GitHub Repo](https://github.com/Tiendat06/SWT_KLN)
+*    **ITZone_TeamBuilding**: Activity, score keeping, and dynamic event flow organizer platform tailored for university club events. [GitHub Repo](https://github.com/Tiendat06/ITZone_TeamBuilding)
+*    **ForumSugar**: Feature-rich student message board platform utilizing centralized community interaction spaces. [GitHub Repo](https://github.com/ManhNguyenQuoc-moc/ForumSugar)
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quoc-manh-nguyen-552b78333)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/ManhNguyenQuoc-moc)
@@ -116,7 +116,7 @@ A structural e-learning backend service managing course hierarchies, nested trac
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManhNguyenQuoc-moc&show_icons=true&theme=radical&cache_seconds=7200" alt="Manh's GitHub Stats" />
